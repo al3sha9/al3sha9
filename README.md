@@ -64,3 +64,4 @@ As a 19-year-old university student studying Software Engineering, I am enthusia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3sha9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Alishans's GitHub stats](https://github-readme-stats.vercel.app/api?username=al3sha9&show_icons=true&theme=radical))](https://github.com/al3sha9/github-readme-stats)

@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1035981275196047401/1082383442718773318/1671189244148.jpg" width=200 />
+  <img src="https://avatars.githubusercontent.com/u/65455151?v=4" width=200 />
 </div>
 
 <div id="hey" align="center">

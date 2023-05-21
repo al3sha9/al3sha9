@@ -41,19 +41,7 @@ As a 19-year-old university student studying Software Engineering, I am enthusia
 - 📫 How to reach me: email me [alishandev@proton.me](mailto:alishandev@proton.me), you can also contact me from my [website](https://al3sha9.github.io/portfolio/).
 
 
-## :hammer_and_wrench: Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-</div>
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=4&theme=catppuccin_frappe&bg=%23303446&badge=%23292c3c&border=%23737994&titleColor=%2381c8be&line1=react,react,auto;svelte,svelte,auto;solid,solid,auto;&line2=javascript,Javascript,auto;typescript,typescript,auto;solidity,solidity,auto;&line3=vite,vite,auto;webpack,webpack,auto;docker,docker,auto;git,git,auto;&line4=vercel,vercel,auto;bootstrap,bootstrap,auto;)
  
 
   

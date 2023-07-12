@@ -44,7 +44,6 @@ As a 19-year-old university student studying Software Engineering, I am enthusia
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=4&theme=catppuccin_frappe&bg=%23303446&badge=%23292c3c&border=%23737994&titleColor=%2381c8be&line1=react,react,auto;svelte,svelte,auto;solid,solid,auto;&line2=javascript,Javascript,auto;typescript,typescript,auto;solidity,solidity,auto;&line3=vite,vite,auto;webpack,webpack,auto;docker,docker,auto;git,git,auto;&line4=vercel,vercel,auto;bootstrap,bootstrap,auto;)
  
 
-[![contributions]<img src="https://avatars.githubusercontent.com/u/65455151?v=4" width=200 />](https://raw.githubusercontent.com/al3sha9/eth-solidity/1810e58f5f93f9872973b6e331d323786f1b8704/assets/github-user-contribution.svg)
   
 ## :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=al3sha9&theme=dark&background=000000)](https://git.io/streak-stats)

@@ -18,19 +18,20 @@ alisha@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/65455151?v=4" alt="Unfortunately I didn't find the author of the pic" width="320" /> 
+<div align="center">
+  <img align="left" src="https://i.ibb.co/Cz9JPXn/anime-hacking-min.gif" alt="Unfortunately I didn't find the author of the pic" height="268.062px" style="border-radius: 10px;" /> 
+</div>
+
 
 ```
 alishan@github
 -------------------------
-alishan@github
--------------------------
 🏫 BS Software engineering student @SZABIST
 🔎 Main interests in Web Dev & Blockchain
-🔭 Working on Blockchain dApps, Interactive Web Technologies
-🌱 Learning about Advance Blockchain Concepts and Linux sys
+🔭 Working on Blockchain dApps, Web Technologies
+🌱 Learning about Advance De-Fi Concepts and Linux
 🌟 Main languages: JavaScript, Solidity, Flutter, C++
-🚩 Interested in Decentralized Technologies, Linux and Opensource
+🚩 Interested in Decentralized Technologies and Linux
 💖 In a complicated relationship with Typescript
 🎵 Love American Hip-hop
 💻 Total commits: 1000+
@@ -45,7 +46,7 @@ alishan@github
 
 
 ```console
-alishan@github:~$ sudo echo "* * * * * && sudo fix bugs
+alishan@github:~$ sudo echo "* * * * *" && sudo fix bugs
 ```
 
 ```

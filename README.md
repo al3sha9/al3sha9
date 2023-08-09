@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="overflow: hidden;">
   <img src="https://profile-counter.glitch.me/al3sha9/count.svg?"  />
 </div>
 

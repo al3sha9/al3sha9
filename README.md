@@ -19,7 +19,7 @@ alisha@github:~$ ./welcome.sh
 ```
 
 <div align="center">
-  <img align="left" src="https://i.ibb.co/Cz9JPXn/anime-hacking-min.gif" alt="Unfortunately I didn't find the author of the pic" height="268.062px" style="border-radius: 10px;" /> 
+  <img align="left" src="https://i.ibb.co/Cz9JPXn/anime-hacking-min.gif" alt="Unfortunately I didn't find the author of the pic" height="220.062px" style="border-radius: 10px;" /> 
 </div>
 
 

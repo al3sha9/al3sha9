@@ -6,7 +6,9 @@
 
 
 ```console
+
 alisha@github:~$ ./welcome.sh
+
 ```
 
 ```
@@ -44,7 +46,9 @@ alishan@github
 
 
 ```console
+
 alishan@github:~$ sudo echo "* * * * *" && sudo fix bugs
+
 ```
 
 ```

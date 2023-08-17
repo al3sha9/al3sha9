@@ -7,19 +7,24 @@
 
 ```console
 
-alisha@github:~$ ./welcome.sh
+alishan@github:~$ ./welcome.sh
 
 ```
 
 ```
  _____________________________________
 < Welcome to my personal GitHub page! >
- ------------------------------------- 
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+ -------------------------------------
+
+             ／＞　 フ
+            | 　_　_| 
+           ／` ミ＿xノ 
+          /　　　　 |
+         /　 ヽ　　 ﾉ
+         │　 |　|　|
+    ／￣|　　 |　|　|
+   (￣ヽ＿_ヽ_)__)
+     ＼二)
 ```
 
 <div align="center">
@@ -73,7 +78,7 @@ Fixing bugs in code...
 ```
 
 ```console
-alisha@github:~$ ./mycontribtutions.gif
+alishan@github:~$ ./mycontribtutions.gif
 
 ```
 <div align="center">

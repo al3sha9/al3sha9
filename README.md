@@ -85,3 +85,6 @@ alishan@github:~$ ./mycontribtutions.gif
   <img src="https://raw.githubusercontent.com/al3sha9/al3sha9/70d918f4690f5afc67120ab23d6701ed78f47231/github-contribution-grid-snake-dark.svg"/>
 </div>
 
+
+  [![Ali Shan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=al3sha9&bg_color=000000&color=4e9e4c&line=569e4c&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+

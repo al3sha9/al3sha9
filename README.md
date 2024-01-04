@@ -29,8 +29,8 @@ alishan@github:~$ ./welcome.sh
 ```
 
 <div align="center flex">
-  <img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Unfortunately I didn't find the author of the pic" height="228.062px" style="border-radius: 10px;" /> 
-<!--   <img align="left" src="https://i.ibb.co/Cz9JPXn/anime-hacking-min.gif" alt="Unfortunately I didn't find the author of the pic" height="228.062px" style="border-radius: 10px;" />  -->
+<!--   <img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Unfortunately I didn't find the author of the pic" height="228.062px" style="border-radius: 10px;" />  -->
+  <img align="left" src="https://i.ibb.co/Cz9JPXn/anime-hacking-min.gif" alt="Unfortunately I didn't find the author of the pic" height="228.062px" style="border-radius: 10px;" /> 
 </div>
 
 

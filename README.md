@@ -43,7 +43,7 @@ alishan@github
 💖 In a complicated relationship with Typescript
 🎵 Love American Hip-hop
 💻 Total commits: 1000+
-⭐ Total stars gained: 50+.
+⭐ Total stars gained: 50+
 ```
 
 

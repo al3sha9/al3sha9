@@ -41,7 +41,7 @@ alishan@github
 🌟 Main languages: JavaScript, Solidity, Flutter, C++
 🚩 Interested in Decentralized Technologies and Linux
 💖 In a complicated relationship with Typescript
-🎵 Love American Hip-hop
+🎵 Love American Hip-hop.
 💻 Total commits: 1000+
 ⭐ Total stars gained: 50+
 ```

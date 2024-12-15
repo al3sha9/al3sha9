@@ -58,7 +58,7 @@ alishan@github:~$ sudo echo "* * * * *" && sudo fix bugs
 ```
 [sudo] Password for alishan:
 
-Fixing bugs in code...
+Fixing bugs in code....
                               
        \`*-.    [me]              
         )  _`-.                 

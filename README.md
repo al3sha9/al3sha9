@@ -48,7 +48,6 @@ alishan@github
 
 
 
-
 ```console
 
 alishan@github:~$ sudo echo "* * * * *" && sudo fix bugs

@@ -35,11 +35,11 @@ alishan@github:~$ ./welcome.sh
 alishan@github
 -------------------------
 🏫 BS Software engineering student @SZABIST
-🔎 Main interests in Web Dev & Blockchain
-🔭 Working on Blockchain dApps, Web Technologies
-🌱 Learning about Advance De-Fi Concepts and Linux
-🌟 Main languages: JavaScript, Solidity, Flutter, C++
-🚩 Interested in Decentralized Technologies and Linux
+🔎 Main interests in Web Dev & Cloud
+🔭 Working on Web Technologies
+🌱 Learning about advanced Javascript Concepts and Linux
+🌟 Main languages: JavaScript, Typescript, C++
+🚩 Interested in cloud Technologies and Linux
 💖 In a complicated relationship with Typescript
 🎵 Love American Hip-hop
 💻 Total commits: 1000+

@@ -1,8 +1,4 @@
-<div align="center" style="overflow: hidden;">
-  <br />
-  <img src="https://profile-counter.glitch.me/al3sha9/count.svg?"  />
-  <br />
-</div>
+
 
 ```console
 
@@ -35,11 +31,11 @@ alishan@github:~$ ./welcome.sh
 alishan@github
 -------------------------
 🏫 BS Software engineering student @SZABIST
-🔎 Main interests in Web Dev & Cloud
+🔎 Main interests in Web Dev & Agentic Ai
 🔭 Working on Web Technologies
 🌱 Learning about advanced Javascript Concepts and Linux
-🌟 Main languages: JavaScript, Typescript, C++
-🚩 Interested in cloud Technologies and Linux
+🌟 Main languages: JavaScript, Typescript, Python
+🚩 Interested in AI and Linux
 💖 In a complicated relationship with Typescript
 🎵 Love American Hip-hop
 💻 Total commits: 1000+

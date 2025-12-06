@@ -23,7 +23,7 @@ alishan@github:~$ ./welcome.sh
 ```
 
 <div align="center">
-  <img align="left" src="https://i.ibb.co/Cz9JPXn/anime-hacking-min.gif" alt="Unfortunately I didn't find the author of the pic" height="228.062px" style="border-radius: 10px;" /> 
+  <img align="left" src="https://raw.githubusercontent.com/al3sha9/SEO-Autopilot/refs/heads/main/WhatsApp%20Image%202025-12-06%20at%206.59.44%20PM.jpeg" alt="Unfortunately I didn't find the author of the pic" height="228.062px" style="border-radius: 10px;" /> 
 </div>
 
 

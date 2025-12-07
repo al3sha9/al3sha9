@@ -23,23 +23,17 @@ alishan@github:~$ ./welcome.sh
 ```
 
 <div align="center">
-  <img align="left" src="https://raw.githubusercontent.com/al3sha9/SEO-Autopilot/refs/heads/main/WhatsApp%20Image%202025-12-06%20at%206.59.44%20PM.jpeg" alt="Unfortunately I didn't find the author of the pic" height="228.062px" style="border-radius: 10px;" /> 
+  <img align="left" src="https://raw.githubusercontent.com/al3sha9/SEO-Autopilot/refs/heads/main/WhatsApp%20Image%202025-12-06%20at%206.59.44%20PM.jpeg" alt="Unfortunately, I didn't find the author of the pic" height="228.062px" style="border-radius: 10px;" /> 
 </div>
 
 
 ```
 alishan@github
 -------------------------
-🏫 BS Software engineering student @SZABIST
-🔎 Main interests in Web Dev & Agentic Ai
-🔭 Working on Web Technologies
-🌱 Learning about advanced Javascript Concepts and Linux
-🌟 Main languages: JavaScript, Typescript, Python
-🚩 Interested in AI and Linux
-💖 In a complicated relationship with Typescript
-🎵 Love American Hip-hop
-💻 Total commits: 1000+
-⭐ Total stars gained: 50+.
+Current Focus: Building web technologies and diving deep into Agentic AI.
+The Stack: JavaScript, TypeScript, Python, and frameworks.
+Relationship Status: It's complicated with TypeScript. We fight, I fix the types, we make up.
+Fuel: phonk and debugging sessions.
 ```
 
 

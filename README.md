@@ -32,7 +32,8 @@ alishan@github
 -------------------------
 
 > whoami BS Software Engineering student @ SZABIST
-> what_do_you_do I build web architecture and AI agents. Currently exploring advanced JavaScript concepts and Linux environments.
+> what_do_you_do I build web architecture and AI agents.
+  Currently exploring advanced JavaScript concepts.
 > tech_stack JavaScript, TypeScript, Python, and their frameworks.
 > music_player Now Playing: American Hip-hop Playlist.
 > git_stats 1000+ Commits. 50+ Stars.

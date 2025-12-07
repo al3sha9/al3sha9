@@ -30,10 +30,13 @@ alishan@github:~$ ./welcome.sh
 ```
 alishan@github
 -------------------------
-Current Focus: Building web technologies and diving deep into Agentic AI.
-The Stack: JavaScript, TypeScript, Python, and frameworks.
-Relationship Status: It's complicated with TypeScript. We fight, I fix the types, we make up.
-Fuel: phonk and debugging sessions.
+
+> whoami BS Software Engineering student @ SZABIST
+> what_do_you_do I build web architecture and AI agents. Currently exploring advanced JavaScript concepts and Linux environments.
+> tech_stack JavaScript, TypeScript, Python, and their frameworks.
+> music_player Now Playing: American Hip-hop Playlist.
+> git_stats 1000+ Commits. 50+ Stars.
+
 ```
 
 

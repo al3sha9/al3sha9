@@ -1,6 +1,6 @@
-<img align="right" width="140" alt="Black kitten wearing glasses" src="https://raw.githubusercontent.com/al3sha9/SEO-Autopilot/refs/heads/main/WhatsApp%20Image%202025-12-06%20at%206.59.44%20PM.jpeg">
-
 # Ali Shan
+
+<img align="right" width="140" alt="Black kitten wearing glasses" src="https://raw.githubusercontent.com/al3sha9/SEO-Autopilot/refs/heads/main/WhatsApp%20Image%202025-12-06%20at%206.59.44%20PM.jpeg">
 
 software engineering student from Islamabad. i build web apps, backend systems, and AI tools.
 

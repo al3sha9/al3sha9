@@ -1,71 +1,11 @@
+<img align="right" width="140" alt="Black kitten wearing glasses" src="https://raw.githubusercontent.com/al3sha9/SEO-Autopilot/refs/heads/main/WhatsApp%20Image%202025-12-06%20at%206.59.44%20PM.jpeg">
 
+# Ali Shan
 
-```console
+software engineering student from Islamabad. i build web apps, backend systems, and AI tools.
 
-alishan@github:~$ ./welcome.sh
+i have a lot of intrusive ideas, and engineering is how i let them loose. currently, i’m a Product Engineer at [100xBetter.ai](https://100xbetter.ai) and building [GoodData](https://gd.alishan.dev), a web analytics platform for my final year project.
 
-```
+lately, i’m exploring what software engineering looks like when agents do most of the typing. i mostly work with Node.js, Python, and PostgreSQL.
 
-```
- _____________________________________
-< Welcome to my personal GitHub page! >
- -------------------------------------
-
-             ／＞　 フ
-            | 　_　_| 
-           ／` ミ＿xノ 
-          /　　　　 |
-         /　 ヽ　　 ﾉ
-         │　 |　|　|
-    ／￣|　　 |　|　|
-   (￣ヽ＿_ヽ_)__)
-     ＼二)
-```
-
-<div align="center">
-  <img align="left" src="https://raw.githubusercontent.com/al3sha9/SEO-Autopilot/refs/heads/main/WhatsApp%20Image%202025-12-06%20at%206.59.44%20PM.jpeg" alt="Unfortunately, I didn't find the author of the pic" height="220" style="border-radius: 10px;" /> 
-</div>
-
-
-```
-alishan@github
--------------------------
-
-> whoami BS Software Engineering student @ SZABIST
-> what_do_you_do I build web architecture and AI agents.
-  Currently exploring advanced JavaScript concepts.
-> tech_stack JavaScript, TypeScript, Python, and their frameworks.
-> music_player Now Playing: American Hip-hop Playlist.
-> git_stats 1000+ Commits. 50+ Stars.
-
-```
-
-
-
-```console
-
-alishan@github:~$ sudo echo "* * * * *" && sudo fix bugs
-
-```
-
-```
-[sudo] Password for alishan:
-
-Fixing bugs in code....
-                              
-       \`*-.    [me]              
-        )  _`-.                 
-       .  : `. .                
-       : _   '  \               
-       ; *` _.   `*-._          
-       `-.-'          `-.       
-         ;       `       `.     
-         :.       .        \    
-         . \  .   :   .-'   .   
-         '  `+.;  ;  '      :   
-         :  '  |    ;       ;-. 
-         ; '   : :`-:     _.`* ;
-[bug] .*' /  .*' ; .*`- +'  `*' 
-      `*-*   `*-*  `*-*'
-```
-
+[website](https://alishan.dev) · [notes](https://alishan.dev/notes) · [work](https://alishan.dev/work)
